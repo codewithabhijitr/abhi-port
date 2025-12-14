@@ -68,6 +68,7 @@ const About = () => {
                 </CardContent>
               </Card>
             ))}
+          </div>
         </div>
       </div>
     </section>
