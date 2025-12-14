@@ -63,7 +63,7 @@ const Header = () => {
             }}
             className="text-2xl font-bold bg-gradient-to-r from-[#923FFF] via-[#583FFF] to-[#7DBFFF] bg-clip-text text-transparent"
           >
-            Abhijit.dev
+            Abhijit Ray
           </a>
 
           {/* Desktop Navigation */}
