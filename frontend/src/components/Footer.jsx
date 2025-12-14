@@ -32,7 +32,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-[#923FFF] via-[#583FFF] to-[#7DBFFF] bg-clip-text text-transparent mb-4">
-              Abhijit.dev
+              Abhijit Ray
             </h3>
             <p className="text-gray-400">
               Aspiring DevOps & Cloud Engineer passionate about automation and cloud-native solutions.
