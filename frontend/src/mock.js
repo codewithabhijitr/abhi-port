@@ -115,7 +115,7 @@ export const projects = [
     id: 2,
     title: "Custom Apache Docker Image — Stratos DC",
     description: "Built a custom Apache web server Docker image with optimized configurations for production deployment.",
-    image: "https://images.unsplash.com/photo-1605745341112-85968b19335b?w=800&h=600&fit=crop",
+    image: "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
     link: "https://github.com/abhijitray7810/Docker-Practice-100/tree/main/Day-15%3A%20Write%20a%20Docker%20File",
     technologies: ["Docker", "Apache", "Linux"]
   },
@@ -123,7 +123,7 @@ export const projects = [
     id: 3,
     title: "Dockerized PHP–MariaDB Stack Deployment",
     description: "Containerized a full-stack application with PHP and MariaDB, implementing multi-container orchestration.",
-    image: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&h=600&fit=crop",
+    image: "https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.png",
     link: "https://github.com/abhijitray7810/100-days-of-devops-kodekloud/tree/main/Day%2046%3A%20Deploy%20an%20App%20on%20Docker%20Containers",
     technologies: ["Docker", "PHP", "MariaDB"]
   },
@@ -131,7 +131,7 @@ export const projects = [
     id: 4,
     title: "Kubernetes Time-Check Pod — DevOps Automation Task",
     description: "Automated time-based tasks using Kubernetes CronJobs and pod scheduling for DevOps workflows.",
-    image: "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=800&h=600&fit=crop",
+    image: "https://kubernetes.io/images/kubernetes-horizontal-color.png",
     link: "https://github.com/abhijitray7810/Kubernetes-Work/tree/main/Kubernetes%20Time-Check%20Pod",
     technologies: ["Kubernetes", "YAML", "Pods"]
   },
@@ -139,7 +139,7 @@ export const projects = [
     id: 5,
     title: "Ansible Email App Deployment",
     description: "Automated email application deployment using Ansible playbooks for configuration management.",
-    image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800&h=600&fit=crop",
+    image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg",
     link: "https://github.com/abhijitray7810/Ansible-Email-App",
     technologies: ["Ansible", "YAML", "Automation"]
   }
