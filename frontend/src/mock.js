@@ -177,3 +177,48 @@ export const experience = [
     description: "Personal Projects focused on DevOps automation and cloud infrastructure"
   }
 ];
+
+export const resumeUrl = "https://customer-assets.emergentagent.com/job_tech-automation-14/artifacts/z3vsn4u1_Abhijit%20Ray%20Resume%20Devops.pdf";
+
+export const certifications = [
+  {
+    id: 1,
+    title: "Well-Architected Proficient",
+    issuer: "AWS",
+    date: "2024",
+    link: "https://www.credly.com/badges/8e81416d-77ba-410b-980a-a81d5419cac0/linked_in_profile",
+    logo: "https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png"
+  },
+  {
+    id: 2,
+    title: "Networking Basics",
+    issuer: "Cisco",
+    date: "2024",
+    link: "https://www.credly.com/badges/7a6aeb52-5af1-4750-ae2a-7900cd6f6252/linked_in_profile",
+    logo: "https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"
+  },
+  {
+    id: 3,
+    title: "LFS101: Introduction to Linux",
+    issuer: "The Linux Foundation",
+    date: "2024",
+    link: "https://www.credly.com/badges/e065d3f3-9d61-4a65-8ccb-c037c9d36267/linked_in_profile",
+    logo: "https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
+  },
+  {
+    id: 4,
+    title: "KodeKloud Engineer - Ansible (Level 1)",
+    issuer: "KodeKloud",
+    date: "2024",
+    link: "https://engineer.kodekloud.com/certificate-verification/1575fb56-d931-4a0a-b099-5cbc35d5fcb7",
+    logo: "https://res.cloudinary.com/practicaldev/image/fetch/s--qfAcXe8B--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/4265/39cd8981-ad4e-4776-a998-156a0a2ce1c0.png"
+  },
+  {
+    id: 5,
+    title: "KodeKloud Engineer - Kubernetes (Level 1)",
+    issuer: "KodeKloud",
+    date: "2024",
+    link: "https://engineer.kodekloud.com/certificate-verification/81ae0e86-2436-42a9-ac75-358e72cca4f7",
+    logo: "https://res.cloudinary.com/practicaldev/image/fetch/s--qfAcXe8B--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/4265/39cd8981-ad4e-4776-a998-156a0a2ce1c0.png"
+  }
+];
