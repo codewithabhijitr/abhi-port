@@ -46,24 +46,28 @@ const About = () => {
           </div>
         </div>
 
-        {/* Highlight Cards */}
-        <div className="mt-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {highlightCards.map((card) => (
-            <Card
-              key={card.id}
-              className="group relative bg-white/5 backdrop-blur-md border border-gray-800 hover:border-[#923FFF] transition-all duration-300 hover:shadow-lg hover:shadow-[#923FFF]/30 hover:-translate-y-2"
-            >
-              <CardContent className="p-6 text-center space-y-2">
-                <h3 className="text-sm font-medium text-gray-400 uppercase tracking-wide">
-                  {card.title}
-                </h3>
-                <p className="text-3xl font-bold bg-gradient-to-r from-[#923FFF] via-[#583FFF] to-[#7DBFFF] bg-clip-text text-transparent">
-                  {card.value}
-                </p>
-                <p className="text-sm text-gray-500">{card.description}</p>
-              </CardContent>
-            </Card>
-          ))}
+        {/* Experience Cards */}
+        <div className="mt-20">
+          <h3 className="text-3xl font-bold text-center text-white mb-8">
+            Professional <span className="bg-gradient-to-r from-[#923FFF] via-[#583FFF] to-[#7DBFFF] bg-clip-text text-transparent">Experience</span>
+          </h3>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+            {highlightCards.map((card) => (
+              <Card
+                key={card.id}
+                className="group relative bg-white/5 backdrop-blur-md border border-gray-800 hover:border-[#923FFF] transition-all duration-300 hover:shadow-lg hover:shadow-[#923FFF]/30 hover:-translate-y-2"
+              >
+                <CardContent className="p-6 text-center space-y-2">
+                  <h3 className="text-sm font-medium text-gray-400 uppercase tracking-wide">
+                    {card.title}
+                  </h3>
+                  <p className="text-2xl font-bold bg-gradient-to-r from-[#923FFF] via-[#583FFF] to-[#7DBFFF] bg-clip-text text-transparent">
+                    {card.value}
+                  </p>
+                  <p className="text-xs text-gray-500">{card.description}</p>
+                </CardContent>
+              </Card>
+            ))}
         </div>
       </div>
     </section>
