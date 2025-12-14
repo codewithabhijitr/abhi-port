@@ -22,27 +22,45 @@ export const aboutText = {
 export const highlightCards = [
   {
     id: 1,
-    title: "Experience",
-    value: "Self-learning Projects",
-    description: "Personal Projects"
+    title: "AWS",
+    value: "1.5+ Years",
+    description: "Cloud Infrastructure"
   },
   {
     id: 2,
-    title: "Technologies",
-    value: "10+",
-    description: "DevOps Tools Mastered"
+    title: "Linux",
+    value: "2+ Years",
+    description: "System Administration"
   },
   {
     id: 3,
-    title: "Specialties",
-    value: "Cloud & IaC",
-    description: "AWS, OCI, Terraform"
+    title: "Docker",
+    value: "2+ Years",
+    description: "Containerization"
   },
   {
     id: 4,
-    title: "Achievements",
-    value: "AWS Certified",
-    description: "Cloud Practitioner"
+    title: "Kubernetes",
+    value: "1.5+ Years",
+    description: "Container Orchestration"
+  },
+  {
+    id: 5,
+    title: "Jenkins",
+    value: "1+ Years",
+    description: "CI/CD Automation"
+  },
+  {
+    id: 6,
+    title: "Terraform",
+    value: "1+ Years",
+    description: "Infrastructure as Code"
+  },
+  {
+    id: 7,
+    title: "CI/CD",
+    value: "1+ Years",
+    description: "Pipeline Automation"
   }
 ];
 
