@@ -131,7 +131,7 @@ export const projects = [
     id: 4,
     title: "Kubernetes Time-Check Pod — DevOps Automation Task",
     description: "Automated time-based tasks using Kubernetes CronJobs and pod scheduling for DevOps workflows.",
-    image: "https://kubernetes.io/images/kubernetes-horizontal-color.png",
+    image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg",
     link: "https://github.com/abhijitray7810/Kubernetes-Work/tree/main/Kubernetes%20Time-Check%20Pod",
     technologies: ["Kubernetes", "YAML", "Pods"]
   },
@@ -139,7 +139,7 @@ export const projects = [
     id: 5,
     title: "Ansible Email App Deployment",
     description: "Automated email application deployment using Ansible playbooks for configuration management.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg",
+    image: "https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Pool.png",
     link: "https://github.com/abhijitray7810/Ansible-Email-App",
     technologies: ["Ansible", "YAML", "Automation"]
   }
