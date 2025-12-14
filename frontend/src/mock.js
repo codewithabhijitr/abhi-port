@@ -9,7 +9,7 @@ export const personalInfo = {
   email: "roy055659@gmail.com",
   github: "https://github.com/abhijitray7810/",
   linkedin: "https://www.linkedin.com/in/abhijitray7810/",
-  profileImage: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&h=400&fit=crop"
+  profileImage: "https://customer-assets.emergentagent.com/job_tech-automation-14/artifacts/v5e08dal_WhatsApp%20Image%202025-12-14%20at%2022.04.05.jpeg"
 };
 
 export const aboutText = {
