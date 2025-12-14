@@ -5,6 +5,7 @@ import About from '../components/About';
 import Skills from '../components/Skills';
 import Services from '../components/Services';
 import Projects from '../components/Projects';
+import Certifications from '../components/Certifications';
 import Testimonials from '../components/Testimonials';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -28,6 +29,7 @@ const Portfolio = () => {
       <Skills />
       <Services />
       <Projects />
+      <Certifications />
       <Testimonials />
       <Contact />
       <Footer />
